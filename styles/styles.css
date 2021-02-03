@@ -65,8 +65,13 @@ header img {
   height: 5em;
 }
 
+.wrapper {
+  width: 100%;
+  max-width: 1550px;
+}
+
 .container {
-  padding: 5em 0 1em 0;
+  padding: 4em 0 1em 0;
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: 60% 35%;
